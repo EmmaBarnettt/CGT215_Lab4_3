@@ -1,0 +1,4 @@
+﻿  CGT215_Lab4_3.cpp
+C:\Users\Mark Barnett\source\repos\CGT215_Lab4_3\CGT215_Lab4_3.cpp(18,17): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+C:\Users\Mark Barnett\source\repos\CGT215_Lab4_3\CGT215_Lab4_3.cpp(46,18): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  CGT215_Lab4_3.vcxproj -> C:\Users\Mark Barnett\source\repos\CGT215_Lab4_3\x64\Debug\CGT215_Lab4_3.exe
